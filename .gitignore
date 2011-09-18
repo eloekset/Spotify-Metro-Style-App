@@ -1,0 +1,10 @@
+-Obj 
+-Bin 
++[Bb]in/ 
++[Oo]bj/ 
+ *.userprefs 
+ *.pidb 
+ *.orig 
+-
+-*.user
+-*.suo
