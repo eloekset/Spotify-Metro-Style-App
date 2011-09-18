@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11 Express for Windows 8
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyMetroStyle", "SpotifyMetroStyle\SpotifyMetroStyle.csproj", "{8CA4D1FF-5635-4F2D-BA05-8B8927F34522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyUnitTests", "SpotifyUnitTests\SpotifyUnitTests.csproj", "{910583AA-1EEB-4C51-8F8C-F3636054BCBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CA4D1FF-5635-4F2D-BA05-8B8927F34522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA4D1FF-5635-4F2D-BA05-8B8927F34522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA4D1FF-5635-4F2D-BA05-8B8927F34522}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8CA4D1FF-5635-4F2D-BA05-8B8927F34522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA4D1FF-5635-4F2D-BA05-8B8927F34522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA4D1FF-5635-4F2D-BA05-8B8927F34522}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{910583AA-1EEB-4C51-8F8C-F3636054BCBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910583AA-1EEB-4C51-8F8C-F3636054BCBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910583AA-1EEB-4C51-8F8C-F3636054BCBE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{910583AA-1EEB-4C51-8F8C-F3636054BCBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910583AA-1EEB-4C51-8F8C-F3636054BCBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{910583AA-1EEB-4C51-8F8C-F3636054BCBE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
