@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  
+  <Identity Name="0d945607-8de0-4cd0-9c1a-11b3af3d7646"
+            Publisher="CN=eloekset"
+            Version="1.0.0.0" />
+  
+  <Properties>
+    <DisplayName>SpotifyApp</DisplayName>
+    <PublisherDisplayName>eloekset</PublisherDisplayName>
+    <Logo>Images\StoreLogo.png</Logo>
+    <Description>SpotifyApp</Description>
+  </Properties>
+  
+  <Prerequisites>
+    <OSMinVersion>6.2</OSMinVersion>
+    <OSMaxVersionTested>6.2</OSMaxVersionTested>
+  </Prerequisites>
+  
+  <Resources>
+    <Resource Language="en-us"/>
+  </Resources>
+  
+  <Applications>
+    <Application Id="App" 
+        Executable="spotifyapp.exe" 
+        EntryPoint="SpotifyApp.App">
+        <VisualElements 
+            DisplayName="SpotifyApp"
+            Logo="Images\Logo.png"
+            SmallLogo="Images\SmallLogo.png"
+            Description="SpotifyApp"
+            ForegroundText="light"
+            BackgroundColor="#222222">
+            <SplashScreen Image="Images\SplashScreen.png" />
+        </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

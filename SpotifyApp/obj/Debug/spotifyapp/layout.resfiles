@@ -1,0 +1,14 @@
+ExternalReferences\Newtonsoft.Json.Net35.dll
+ExternalReferences\Newtonsoft.Json.Net35.pdb
+ExternalReferences\Newtonsoft.Json.Net35.xml
+Images\Logo.png
+Images\SmallLogo.png
+Images\SplashScreen.png
+Images\StoreLogo.png
+SampleData\Images\LightGray.png
+SampleData\Images\MediumGray.png
+SampleData\Images\DarkGray.png
+View\GroupedCollectionPage.xaml
+View\CollectionSummaryPage.xaml
+View\DetailPage.xaml
+App.xaml
